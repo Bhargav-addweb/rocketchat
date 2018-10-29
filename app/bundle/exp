@@ -1,0 +1,4 @@
+export MONGO_URL=mongodb://localhost:27017/rocketchat
+export ROOT_URL=http://0.0.0.0:3000
+export PORT=3000
+
